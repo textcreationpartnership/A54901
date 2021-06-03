@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A pindarick ode, upon the death of His Late Sacred Majesty King Charles the Second</title>
+         </titleStmt>
+         <extent>Approx. 8KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A54901</idno><idno type="EEBO-CITATION">12610803</idno>
+  <idno type="VID">64368</idno>
+  <idno type="EEBO-PROQUEST">2240933738</idno>
+  
+            <idno type="STC">Wing P2257</idno>
+            <idno type="STC">ESTC R20935</idno>
+            <idno type="OCLC">12610803</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A54901)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 64368)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 772:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A pindarick ode, upon the death of His Late Sacred Majesty King Charles the Second</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Leonard Lichfield ... for Anthony Stephens ...,</publisher>
+                  <pubPlace>Oxford :</pubPlace>
+                  <date>1685.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Another issue has London imprint.</note>
+                  <note>Not to be confused with A pindarick ode on the death by J.H., the present work begins: "Alas he's dead--the dismal sound."</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Charles --  II, --  King of England, 1630-1685.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:64368:1"/>
+            <pb facs="tcp:64368:1"/>
+            <p>A PINDARICK ODE, Upon the Death of His late sacred Majesty KING CHARLES the SECOND.</p>
+            <q>
+               <l>At si non aliam venturo Fata JACOBO</l>
+               <l>Invenere viam,</l>
+               <l>Tum nihil (O Superi) querimur—</l>
+            </q>
+            <p>
+               <hi>OXFORD,</hi> Printed by <hi>Leonard Lichfield</hi> Printer to the University, for <hi>Anthony Stephens</hi> Book seller near the Theatre 1685.</p>
+         </div>
+      </front>
+      <body>
+         <div type="ode">
+            <pb facs="tcp:64368:2"/>
+            <pb n="1" facs="tcp:64368:2"/>
+            <head>
+               <hi>A PINDARICK ODE,</hi> Upon the Death of his late sacred Majesty King CHARLES the Second.</head>
+            <head type="sub">
+               <hi>Humbly Dedicated to the Right Honourable</hi> JAMES <hi>Earl of ABINGDON.</hi>
+            </head>
+            <lg>
+               <head>I.</head>
+               <l>
+                  <hi>ALass he's dead</hi>— The dismal sound</l>
+               <l>Like poyson'd Air</l>
+               <l>Hot Universal plagues doth in it bear,</l>
+               <l>And scatters peircing pains around.</l>
+               <l>Paleness and tears and pensive looks is all we see,</l>
+               <l>VVhile Nature's self does seem to be</l>
+               <l>
+                  <hi>Dissolv'd</hi> in Elegy.</l>
+               <l>Ye Gods! what Scenes of horrour do you shew,</l>
+               <l>VVhat sad <hi>Varieties</hi> of woe.</l>
+               <l>Sure, sure your Heav'n must fall and back to Chaos run,</l>
+               <l>Your Prop, your <hi>Atlas</hi> is remov'd and gone.</l>
+               <l>Clouds charg'd with all the rage of Hell</l>
+               <l>And all your <hi>pouring</hi> Storms of wrath we feel,</l>
+               <l>VVhole <hi>Loads</hi> of vengeance undergo,</l>
+               <pb n="2" facs="tcp:64368:3"/>
+               <l>And yet (forgive my frantick Zeal)</l>
+               <l>T' our sins a <hi>less</hi> affliction was but due.</l>
+               <l>If fire, war, fammin you had sent,</l>
+               <l>If a second Deluge had came forth</l>
+               <l>And cover'd ore this Ball of Earth,</l>
+               <l>Then, then (our <hi>CHARLES</hi> being sav'd) with joy</l>
+               <l>We'd to your Altars fly,</l>
+               <l>And <hi>hug</hi> those <hi>blessed</hi> ills, and soon repent.</l>
+               <l>But now amaz'd and <hi>Stupify'd</hi> we stand</l>
+               <l>At your correcting hand,</l>
+               <l>This, this alass (I fear) is more,</l>
+               <l>Then poor <hi>forsaken</hi> man can e're endure.</l>
+            </lg>
+            <lg>
+               <head>II.</head>
+               <l>At's Birth a Glorious Star appear'd</l>
+               <l>It rowld with pure, <hi>refin'd, unborrow'd</hi> Light,</l>
+               <l>Long time kept of approaching Night,</l>
+               <l>And seem'd another <hi>Sun</hi> to us below,</l>
+               <l>The pointed Flames declar'd,</l>
+               <l>And was the sign</l>
+               <l>That this our Royal Babe was all <hi>Divine,</hi>
+               </l>
+               <l>Good Heav'n why not <hi>Immortal</hi> too.</l>
+               <l>Never was soul so regularly great,</l>
+               <l>The Gods such pains did take</l>
+               <l>The best of men to make,</l>
+               <l>That in less time and fewer days,</l>
+               <l>They did the whole Creation raise,</l>
+               <l>And all this curious train of things beget.</l>
+               <l>To him in glory <hi>drest</hi>
+               </l>
+               <l>All his Forefathers <hi>Wealth</hi> came <hi>flowing</hi> in,</l>
+               <pb n="3" facs="tcp:64368:3"/>
+               <l>And sensibly the <hi>Fund</hi> encreast,</l>
+               <l>But in a numerous <hi>Crowd</hi> it scarce was seen.</l>
+               <l>Thus Rivers to the <hi>Ocean</hi> run,</l>
+               <l>And raise (tis true) the waters higher</l>
+               <l>That they their swelling <hi>Mountains</hi> may admire,</l>
+               <l>But there's a <hi>Stock</hi> below, and mightier <hi>Store-house</hi> of its own.</l>
+            </lg>
+            <lg>
+               <head>III.</head>
+               <l>His Father basely Murther'd, he withstood</l>
+               <l>The grief and thousand <hi>Deaths</hi> that after him were sent,</l>
+               <l>And all the vile ingratitude</l>
+               <l>That forc'd his Banishment.</l>
+               <l>His <hi>Royal Oak</hi> scarce e're could be</l>
+               <l>So deeply fixt against a <hi>Storm</hi> as He:</l>
+               <l>Like this his <hi>Ile</hi> unmov'd he lay,</l>
+               <l>VVith unconcern'd and steddy mind,</l>
+               <l>At all the <hi>Waves and Wind</hi>
+               </l>
+               <l>That could from <hi>France</hi> or <hi>Holland</hi> come</l>
+               <l>At all the <hi>Monsters</hi> of the air and sea,</l>
+               <l>At all the wild state <hi>Hurricanes</hi> at home.</l>
+               <l>To Arms and Fighting bred,</l>
+               <l>Victry it self was Pris'ner made.</l>
+               <l>Our <hi>Hercules,</hi> our guardion God</l>
+               <l>An <hi>Hydra</hi> tam'd, he tam'd the <hi>multitude.</hi>
+               </l>
+               <l>He purg'd the <hi>Senate</hi> so, that all allow</l>
+               <l>He clear'd a stinking <hi>stable</hi> too.</l>
+               <l>But yet his <hi>Universal</hi> Influence</l>
+               <l>Plenty to this, and all the Earth at <hi>once</hi> did give,</l>
+               <l>At once both <hi>Indies</hi> thrive,</l>
+               <l>While the old drudging Sun does <hi>less</hi> dispence,</l>
+               <pb n="4" facs="tcp:64368:4"/>
+               <l>And fainter Lights from's Orb do <hi>flow,</hi>
+               </l>
+               <l>For whilst <hi>above</hi> from him a <hi>Summer</hi> we receive,</l>
+               <l>'Tis Winter at the Antipodes below.</l>
+               <l>Alone and uncontroul'd he did command,</l>
+               <l>And either <hi>season</hi> VVar, or Peace could send,</l>
+               <l>On his high Throne was rais'd,</l>
+               <l>He <hi>Nodded, shook</hi> the VVorld, and thunder'd when he pleas'd.</l>
+            </lg>
+            <lg>
+               <head>IV.</head>
+               <l>Under his shade the <hi>Tuneful</hi> Tribe did long retreat,</l>
+               <l>There did the Muses meet,</l>
+               <l>And round their Darling sit.</l>
+               <l>(Oh might their Sons and offspring find</l>
+               <l>Ages to come as Learned and as kind).</l>
+               <l>In one <hi>Parnassus</hi> they then glory'd more,</l>
+               <l>Then <hi>Rome</hi> in her <hi>seven Hills</hi> before.</l>
+               <l>To what vast heights did Learning rise.</l>
+               <l>Each <hi>Science</hi> tho in <hi>Russet</hi> clad</l>
+               <l>To th' Court their Journeys made,</l>
+               <l>And there with dainties fed</l>
+               <l>Their former home-bred Country <hi>Welcome's</hi> they despise.</l>
+               <l>There their <hi>Rags</hi> aside were laid,</l>
+               <l>Like the <hi>Sidonian</hi> Gard'ner, there</l>
+               <l>With Robes of State in Pomp and Glory they appeard,</l>
+               <l>His <hi>Firmament,</hi> as that above, with thousand <hi>Lights</hi> was drest,</l>
+               <l>With thousand <hi>Angels</hi> bless't.</l>
+               <l>None from his <hi>Bounty</hi> were <hi>secure,</hi>
+               </l>
+               <l>Retirement, Darkness could not <hi>Merit</hi> hide,</l>
+               <l>But he the shining <hi>Diamond</hi> espy'd.</l>
+               <l>Pull'd from its lov'd retreat,</l>
+               <pb n="5" facs="tcp:64368:4"/>
+               <l>Away 'twas bore,</l>
+               <l>
+                  <hi>Condemn'd</hi> and <hi>sentenc'd</hi> to be great.</l>
+            </lg>
+            <lg>
+               <head>V.</head>
+               <l>To such a pitch his <hi>Mercy</hi> did arrive,</l>
+               <l>That none could sin so fast, as he forgive.</l>
+               <l>
+                  <hi>Rebels</hi> his Goodness long admir'd,</l>
+               <l>So undeserv'dly spar'd, the dreadful pain</l>
+               <l>Of <hi>shame</hi> and <hi>Wonder</hi> they sustain,</l>
+               <l>That for their <hi>Ease</hi> their Racks and Gibbets they requir'd.</l>
+               <l>Oh Depth, oh boundless Sea, which wit</l>
+               <l>Has never <hi>fail'd</hi> or <hi>fathom'd</hi> yet.</l>
+               <l>It's Glories <hi>here</hi> I can conceive and feel,</l>
+               <l>But sure in the next World must tell.</l>
+               <l>A flat and daubing praise 'twill not abide,</l>
+               <l>The Bard on <hi>purpose</hi> must be <hi>Glorify'd.</hi>
+               </l>
+               <l>But see, the Merciful, the Brave,</l>
+               <l>Majestick and August,</l>
+               <l>The valiant, wise and just,</l>
+               <l>Are attributes that Dirt and VVorms must have.</l>
+               <l>Alass, alass in this poor clod of Earth,</l>
+               <l>Is hudled all his worth.</l>
+               <l>Could he but hear us call, he'd not disdain</l>
+               <l>Our deep fetch'd sighs, our flouds of Tears,</l>
+               <l>And all our longing Pray'rs,</l>
+               <l>But wou'd he wou'd come back again.</l>
+               <l>Lo then the God, the God doe's come,</l>
+               <l>Again vouchsafes to take his Crown;</l>
+               <l>Oh tune your Harps ye Saints above,</l>
+               <l>And all your sluggish grief remove.</l>
+               <pb n="6" facs="tcp:64368:5"/>
+               <l>Hosannas through th' eternal Regions sound,</l>
+               <l>And let it gladly Eccho round.</l>
+               <l>Thou Prince, that dost in Purple Mourn,</l>
+               <l>With these thy Robes in triumph ride,</l>
+               <l>Let well wing'd joys attend thy side;</l>
+               <l>Our CHARLES again is born,</l>
+               <l>In Royal JAMES, our <hi>Charles,</hi> our God does once again RETURN.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
